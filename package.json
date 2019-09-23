@@ -1,0 +1,11 @@
+{
+  "name": "firebase-radar",
+  "version": "0.0.1",
+  "description": "Firebase integration for Radar, the location context platform.",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "firebase-admin": "^8.3.0",
+    "firebase-functions": "^3.2.0"
+  }
+}
